@@ -1,4 +1,4 @@
-# BookFindr personal library manager
+# BookFinder personal library manager
 
 Project planning repo for BookFindr project
 
