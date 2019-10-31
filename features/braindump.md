@@ -55,7 +55,8 @@
 - Add book to Amazon wish list
 - Check out/acquire book from online lender or (if free) provider
 - Buy book (affiliate programs)
-- All data items associated with a book (lists it's on, reviews, notes, etc.) can be retrieved as part of the book's record
+- All data items associated with a book can be retrieved as part of the book's record
+  - (lists it's on, reviews, notes, etc.)
 - Automatic cover art and bibliographic information
 - Automatic citation generation for various citation formats
 - Bibliography manager (plus notes = full academic library manager)
@@ -72,7 +73,8 @@
 
 ### Display local records
 
-- Tags, subjects, etc. can be displayed/filtered as unions (e.g. all books with subject Archery on a wishlist)
+- Tags, subjects, etc. can be displayed/filtered as unions
+  - (e.g. all books with subject Archery on a wishlist)
 - Can also display/filter based on boolean, e.g. is not, is also, etc.
 - Can be displayed as list items or individual book record
 - Lists can be ordered asc or desc by any table column (default to date desc)
